@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mykyta Kuzko</h1>
-<h3 align="left">A passionate frontend developer from Ukraine with experience in building responsive web applications using React, Next.js, and
+<h3 align="left">A passionate frontend developer with experience in building responsive web applications using React, Next.js, and
 TypeScript. Specializing in creating interactive interfaces, implementing multilingual support (i18n), and
 integrating modern UI solutions</h3>
 
